@@ -100626,7 +100626,7 @@ $1(a){return a.dv()},
 $S:610}
 A.qP.prototype={
 a3(){var s=$.aw()
-return new A.Hu(new A.ci(B.ah,s),new A.ci(B.ah,s),new A.ci(B.ah,s),new A.ci(B.ah,s),new A.ci(B.ah,s),new A.ci(B.ah,s),new A.ci(B.ah,s),new A.ci(B.ah,s),new A.ci(B.ah,s),new A.ci(B.ah,s),new A.ci(B.ah,s),new A.ci(B.ah,s),new A.D_(),new A.ti(),new A.Rz("http://localhost:3000/api"),A.b([],t.sr),B.i)}}
+return new A.Hu(new A.ci(B.ah,s),new A.ci(B.ah,s),new A.ci(B.ah,s),new A.ci(B.ah,s),new A.ci(B.ah,s),new A.ci(B.ah,s),new A.ci(B.ah,s),new A.ci(B.ah,s),new A.ci(B.ah,s),new A.ci(B.ah,s),new A.ci(B.ah,s),new A.ci(B.ah,s),new A.D_(),new A.ti(),new A.Rz("https://kumbubackend.onrender.com/api"),A.b([],t.sr),B.i)}}
 A.Hu.prototype={
 ly(){var s=0,r=A.r(t.z),q=this,p
 var $async$ly=A.n(function(a,b){if(a===1)return A.o(b,r)
@@ -101004,7 +101004,7 @@ s=p?B.bB:$.aNq()
 return new A.mu(A.b([o,n,m,l,k,j,A.vS(A.bu(r,A.H(""+q+" days",r,r,r,A.aQ(r,r,s,r,r,r,r,r,r,r,r,16,r,r,p?B.a3:B.w,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.m,r,r,r,r,r,r,r,r,r,120))],t.sa))},
 $S:616}
 A.rq.prototype={
-a3(){return new A.Z7(new A.Ql("http://localhost:3000/api"),B.i)}}
+a3(){return new A.Z7(new A.Ql("https://kumbubackend.onrender.com/api"),B.i)}}
 A.Z7.prototype={
 ak(){this.aD()
 this.e=this.d.ux()},
@@ -102083,7 +102083,7 @@ A.tj.prototype={
 a3(){return new A.a_D(B.i)}}
 A.a_D.prototype={
 ak(){this.aD()
-var s=new A.Rz("http://localhost:3000/api")
+var s=new A.Rz("https://kumbubackend.onrender.com/api")
 this.d=s
 this.f=s.qp()},
 A0(a){return this.abB(a)},
@@ -102662,7 +102662,7 @@ A.us.prototype={
 a3(){return new A.Lv(B.i)}}
 A.Lv.prototype={
 ak(){this.aD()
-this.d=new A.ut("http://localhost:3000/api").uy()},
+this.d=new A.ut("https://kumbubackend.onrender.com/api").uy()},
 VB(){this.N(new A.aFa(this))},
 B8(){var s=0,r=A.r(t.H),q=this,p,o,n
 var $async$B8=A.n(function(a,b){if(a===1)return A.o(b,r)
@@ -102679,7 +102679,7 @@ Ah(a){return this.adQ(a)},
 adQ(a){var s=0,r=A.r(t.H),q=this
 var $async$Ah=A.n(function(b,c){if(b===1)return A.o(c,r)
 while(true)switch(s){case 0:s=2
-return A.u(new A.ut("http://localhost:3000/api").Dg(a),$async$Ah)
+return A.u(new A.ut("https://kumbubackend.onrender.com/api").Dg(a),$async$Ah)
 case 2:q.VB()
 return A.p(null,r)}})
 return A.q($async$Ah,r)},
@@ -102687,7 +102687,7 @@ F(a){var s=null,r=A.el(s,A.H("Users",s,s,s,s,s,s)),q=this.d
 q===$&&A.a()
 return A.ef(r,A.wn(new A.aFf(this),q,t.eX),s,A.PX(A.bF(B.hP,s,s,s),!1,this.galo(),"Add User"))}}
 A.aFa.prototype={
-$0(){this.a.d=new A.ut("http://localhost:3000/api").uy()},
+$0(){this.a.d=new A.ut("https://kumbubackend.onrender.com/api").uy()},
 $S:0}
 A.aF9.prototype={
 $1(a){return new A.om(null,null)},
@@ -102719,7 +102719,7 @@ $1(a){return new A.om(this.a,null)},
 $S:247}
 A.om.prototype={
 a3(){var s=$.aw()
-return new A.WG(new A.bz(null,t.am),new A.ci(B.ah,s),new A.ci(B.ah,s),new A.ut("http://localhost:3000/api"),B.i)}}
+return new A.WG(new A.bz(null,t.am),new A.ci(B.ah,s),new A.ci(B.ah,s),new A.ut("https://kumbubackend.onrender.com/api"),B.i)}}
 A.WG.prototype={
 ak(){var s,r=this
 r.aD()
@@ -102805,7 +102805,7 @@ return A.q($async$$0,r)},
 $S:7}
 A.rb.prototype={
 a3(){var s=null
-return new A.I_(new A.bz(s,t.am),new A.Ql("http://localhost:3000/api"),new A.le(s,"","","","","","","",s,s,s),B.i)}}
+return new A.I_(new A.bz(s,t.am),new A.Ql("https://kumbubackend.onrender.com/api"),new A.le(s,"","","","","","","",s,s,s),B.i)}}
 A.I_.prototype={
 BN(){var s=0,r=A.r(t.H),q=1,p,o=this,n,m,l
 var $async$BN=A.n(function(a,b){if(a===1){p=b
@@ -103244,7 +103244,7 @@ A.X6.prototype={
 Cw(a){var s=0,r=A.r(t.H),q=this,p,o,n
 var $async$Cw=A.n(function(b,c){if(b===1)return A.o(c,r)
 while(true)switch(s){case 0:s=2
-return A.u(new A.ut("http://localhost:3000/api").z9(a),$async$Cw)
+return A.u(new A.ut("https://kumbubackend.onrender.com/api").z9(a),$async$Cw)
 case 2:n=c
 $.h7=n
 if(n==null){n=q.c.R(t.q)
@@ -112737,8 +112737,8 @@ $.aI_=null
 $.aLT=null
 $.aOv=A.D(t.N,t.y)
 $.h7=null
-$.DN="http://localhost:3000"
-$.aKH="http://localhost:3000"
+$.DN="https://kumbubackend.onrender.com"
+$.aKH="https://kumbubackend.onrender.com"
 $.aTP=null
 $.aGs=null
 $.aoD=null
